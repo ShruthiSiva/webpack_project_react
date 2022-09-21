@@ -1,0 +1,4 @@
+{
+    // ES2015, 2016 transpilation is handled by "babel-preset-env". We also need to handle React, so that is taken care of by "babel-preset-react"
+    "presets": ["babel-preset-env", "react"]
+}
